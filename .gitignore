@@ -1,0 +1,4 @@
+ckanext_introjs.egg-info/*
+*.pyc
+build/*
+dist/*
